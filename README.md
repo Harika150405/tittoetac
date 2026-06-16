@@ -6,7 +6,7 @@ A simple and interactive Tic-Tac-Toe game built using **HTML, CSS, and JavaScrip
 
 * Two-player gameplay (X vs O)
 * Winner detection
-* Game-over message display
+* Game-over message display.
 * Reset Game button
 * New Game option
 * Simple and responsive user interface
