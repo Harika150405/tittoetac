@@ -49,4 +49,4 @@ git clone <repository-url>
 5. Click **New Game** after a winner is declared to start a fresh match.
 
 
-⭐ Feel free to fork, star, and contribute to this project!
+
