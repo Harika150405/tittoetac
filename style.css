@@ -1,0 +1,91 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(8, 99, 99);
+    overflow: hidden;
+}
+h1{
+    color:white;
+    font-size: 3rem;
+    text-align: center;
+}
+#head{
+    width: 100%;
+    height: 13%;
+    margin-top: 10px;
+}
+.boxes{
+    width: 100%;
+    height: 25%;
+    margin-left: 450px;
+    display: flex;
+   
+}
+#page1{
+     width: 100%;
+    height: 82%;
+
+}
+#page2{
+    margin-bottom: 20px;
+     width: 100%;
+    height: 18%;
+}
+
+.box1{
+   
+    margin: 6px;
+    width:13%;
+    height:93%;
+    background-color: aliceblue;
+    border: 1px solid white;
+    border-radius: 9px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    color:rgb(208, 42, 42)
+
+}
+#but{
+    padding: 5px;
+    width:8%;
+    height:18%;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 700px;
+}
+button{
+    padding: 5px;
+    width:8%;
+    height:25%;
+    color: aliceblue;
+    background-color: rgb(4, 4, 86);
+}
+.msgcontainer{
+    text-align: center;
+     width:100%;
+    height:100%;
+}
+#win{
+    font-size: 2rem;  
+    color: aliceblue;
+}
+#new{
+    width:8%;
+    height:40%; 
+    margin-left: -3px;
+    margin-top: 13px;
+    color: aliceblue;
+    background-color: rgb(4, 4, 92);
+}
+.hide{
+    display: none;
+}
